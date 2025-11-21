@@ -1,4 +1,4 @@
-# LLM_QA_Project_YourName_MatricNo
+# LLM_QA_Project_YOlubadejo_Folajuwon_23CG034128
 
 Small Question-and-Answering (Q&A) system connecting to an LLM via OpenRouter.
 
